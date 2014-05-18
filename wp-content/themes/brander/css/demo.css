@@ -1,0 +1,64 @@
+
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+
+.demo-drawings body {
+	background: #F17370;
+	color: #fff;
+}
+
+svg {
+	pointer-events: none;
+}
+
+
+.drawings {
+	position: relative;
+	max-height: 600px;
+}
+
+.illustration {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	max-width: 100%;
+	opacity: 0;
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+width: 558px;
+height: 330px;	
+}
+
+.shows {
+	opacity: 1;
+}
+
+.hides {
+	opacity: 0;
+}
+
+.line-drawing,
+.illustration {
+	-webkit-transition: opacity 0.5s;
+	transition: opacity 0.5s;
+}
+
+.line-drawing path {
+	fill: none;
+	stroke: #8d6d2d;
+	stroke-width: 3;
+}
+
+path.line-round {
+	stroke-linecap: round;
+}
+
+path.stroke-medium {
+	stroke-width: 2;
+}
+
+path.stroke-thin {
+	stroke-width: 1;
+}
+

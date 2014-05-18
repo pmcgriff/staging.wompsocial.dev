@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'NexaBold';
+    src: url('NexaBold/nexa_bold-webfont.eot');
+    src: url('NexaBold/nexa_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NexaBold/nexa_bold-webfont.woff') format('woff'),
+         url('NexaBold/nexa_bold-webfont.ttf') format('truetype'),
+         url('NexaBold/nexa_bold-webfont.svg#nexa_boldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'Lassigue';
+    src: url('Lassigue/lassiguedmato-webfont.eot');
+    src: url('Lassigue/lassiguedmato-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Lassigue/lassiguedmato-webfont.woff') format('woff'),
+         url('Lassigue/lassiguedmato-webfont.ttf') format('truetype'),
+         url('Lassigue/lassiguedmato-webfont.svg#lassigueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('ProximaNova/proximanova-bold-webfont.eot');
+    src: url('ProximaNova/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ProximaNova/proximanova-bold-webfont.woff') format('woff'),
+         url('ProximaNova/proximanova-bold-webfont.ttf') format('truetype'),
+         url('ProximaNova/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova Light';
+    src: url('ProximaNovaLight/proximanova-light-webfont.eot');
+    src: url('ProximaNovaLight/proximanova-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ProximaNovaLight/proximanova-light-webfont.woff') format('woff'),
+         url('ProximaNovaLight/proximanova-light-webfont.ttf') format('truetype'),
+         url('ProximaNovaLight/proximanova-light-webfont.svg#proxima_nova_ltlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Proxima Nova Regular';
+    src: url('ProximaNovaRegular/proximanova-reg-webfont.eot');
+    src: url('ProximaNovaRegular/proximanova-reg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('ProximaNovaRegular/proximanova-reg-webfont.woff') format('woff'),
+         url('ProximaNovaRegular/proximanova-reg-webfont.ttf') format('truetype'),
+         url('ProximaNovaRegular/proximanova-reg-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'NexaLight';
+    src: url('NexaLight/nexa_light_0-webfont.eot');
+    src: url('NexaLight/nexa_light_0-webfont.eot?#iefix') format('embedded-opentype'),
+         url('NexaLight/nexa_light_0-webfont.woff') format('woff'),
+         url('NexaLight/nexa_light_0-webfont.ttf') format('truetype'),
+         url('NexaLight/nexa_light_0-webfont.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'BodoniRoman';
+    src: url('BodoniRoman/BodoniStd.eot');
+    src: local('☺'), url('BodoniRoman/BodoniStd.woff') format('woff'), 
+        url('BodoniRoman/BodoniStd.ttf') format('truetype'), 
+        url('BodoniRoman/BodoniStd.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

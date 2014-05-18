@@ -1,0 +1,52 @@
+.extreme_large_white{
+			position: absolute;
+			color: #fff;
+			text-shadow: none;
+			line-height: 36px;
+			font-family: Arial;
+			padding: 0px 4px;
+			margin: 0px;
+			border-width: 0px;
+			border-style: none;
+			text-align: center;
+			letter-spacing: -1px;
+			font-family: "NexaBold";
+			font-size: 51px;
+		}
+
+.brander_extreme_large_white span
+{			color: #8d6d2e}
+
+
+.brander_button_large a{
+			line-height: 58px;
+			text-align: center;
+			text-transform: uppercase;
+			color: #fff;
+			font-family: "NexaBold";
+			font-size: 17px;
+			letter-spacing: 2px;
+			-webkit-transition: all 500ms ease-in-out;
+			-moz-transition: all 500ms ease-in-out;
+			-ms-transition: all 500ms ease-in-out;
+			-o-transition: all 500ms ease-in-out;
+			transition: all 500ms ease-in-out;}			
+
+.brander_button_large:hover{
+			background: #8d6d2e;
+			color: #fff;
+}
+
+.brander_button_large a:hover{
+			background: #8d6d2e;
+			color: #fff;
+}
+
+.brander_large_white span
+{			font-weight: 700;
+			color: #8d6d2e}
+
+
+.brander_medium_white span{
+			color: #8d6d2e
+		}
