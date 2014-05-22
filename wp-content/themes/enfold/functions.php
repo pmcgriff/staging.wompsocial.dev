@@ -17,9 +17,12 @@ if(isset($avia_config['use_child_theme_functions_only'])) return;
 
 //set builder mode to debug
 add_action('avia_builder_mode', "builder_set_debug");
-function builder_set_debug()
-{
-return "debug";
+
+if(!function_exists('builder_set_debug')) {
+	function builder_set_debug()
+	{
+		return "debug";
+	}
 }
 
 /*
@@ -499,11 +502,12 @@ require_once( 'functions-enfold.php');
  * add jQuery Form Validation Plugin
  */
 
-
-    function jquery_validate_load() {
-          wp_enqueue_script('jquery_validate', get_template_directory_uri() . '/js/validate/jquery.validate.min.js', array( 'jquery' ) , '1.11', TRUE);
-          wp_enqueue_script('jquery_add_method', get_template_directory_uri() . '/js/validate/additional-methods.min.js', array( 'jquery_validate' ) , '1.11', TRUE);
-          wp_enqueue_script('contactus_validate', get_template_directory_uri() . '/js/validate/form-validator-script.js', array( 'jquery_validate' ) , '1.0', TRUE);  
-    }
+if(!function_exists('jquery_validate_load')) {
+	function jquery_validate_load() {
+		wp_enqueue_script( 'jquery_validate', get_template_directory_uri() . '/js/validate/jquery.validate.min.js', array( 'jquery' ), '1.11', true );
+		wp_enqueue_script( 'jquery_add_method', get_template_directory_uri() . '/js/validate/additional-methods.min.js', array( 'jquery_validate' ), '1.11', true );
+		wp_enqueue_script( 'contactus_validate', get_template_directory_uri() . '/js/validate/form-validator-script.js', array( 'jquery_validate' ), '1.0', true );
+	}
+}
 
     add_action( 'wp_enqueue_scripts', 'jquery_validate_load' );
