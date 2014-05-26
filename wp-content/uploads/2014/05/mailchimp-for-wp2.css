@@ -1,0 +1,168 @@
+
+ .mc4wp-form,
+ .mc4wp-form label,
+ .mc4wp-form input,
+ .mc4wp-form textarea,
+ .mc4wp-form select,
+ .mc4wp-form button {
+	box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+/* form container */
+ .mc4wp-form {
+	display: block; border: 0; border-style: solid;
+	border-color: transparent;}
+
+/* paragraphs */
+ .mc4wp-form p {
+	}
+
+/* labels */
+ .mc4wp-form label { 
+	margin-bottom: 6px;
+color: #ffffff;font-style: normal;font-weight: normal;font-size: 10px;display: block;}
+
+/* fields */
+ .mc4wp-form input[type="text"],  .mc4wp-form input[type="email"],  .mc4wp-form input[type="url"], 
+ .mc4wp-form input[type="tel"],  .mc4wp-form input[type="number"],  .mc4wp-form input[type="date"],  .mc4wp-form select,  .mc4wp-form textarea { 
+	padding:6px 12px; margin-bottom: 6px;
+display: block;}
+
+/* buttons */
+ .mc4wp-form input[type="submit"], 
+ .mc4wp-form button, 
+ .mc4wp-form input[type="button"], 
+ .mc4wp-form input[type="reset"] {
+	text-shadow:none; 
+	padding:6px 12px; 
+	cursor: pointer; 
+	text-align:center; 
+	border:0; 
+	border-style: solid;
+	line-height: normal;
+background:none; filter: none; background: 	rgba(237,​ 70,​ 65,​ 0.3) !important;width: 100%;}
+
+ .mc4wp-form input[type="submit"]:hover,  .mc4wp-form button:hover,  .mc4wp-form input[type="button"]:hover,  .mc4wp-form input[type="reset"]:hover {
+}
+
+/* messages */
+ .mc4wp-form .mc4wp-alert{ }
+ .mc4wp-form .mc4wp-success{ 
+	}
+ .mc4wp-form .mc4wp-error{
+	}
+
+/* Custom Mailchimp Plugin Settings */
+/* .mc4wp-form { ... } /* the form element */
+/* .mc4wp-form p { ... } /* form paragraphs */
+/* .mc4wp-form label { ... } /* labels */
+/* .mc4wp-form input { ... } /* input fields */
+/* .mc4wp-form input[type="checkbox"] { ... } /* checkboxes */
+/* .mc4wp-form input[type="submit"] { ... } /* submit button */
+/* .mc4wp-alert { ... } /* success & error messages */
+/* .mc4wp-success { ... } /* success message */
+/* .mc4wp-error { ... } /* error messages */
+
+/* Hide Ajax Loader Gif that come with Mailchimp Plugin */
+.mc4wp-ajax-loader {
+    display: none !important;
+}
+
+#top .main_color .mc4wp-form input[type="submit"] {
+    background-color: rgba(237, 70, 65, 0.3);
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    width: 100%;
+    padding: 7px;
+
+}
+
+#top .main_color .mc4wp-form input[type="submit"]:hover {
+    box-shadow: 0 0 5px #999999;
+}
+
+#top .main_color .mc4wp-form input:not([type="submit"]):focus {
+    color: #000;
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-color: #999999;
+    outline: medium none;
+    box-shadow: 0 0 5px #999999;
+}
+
+#top .main_color .mc4wp-form input {
+    background-color: transparent;
+	border: 1px solid #ED4641;
+	font-weight: bold;
+    color: #fff;
+}
+
+#top .main_color .mc4wp-form label {
+    color:white;
+    font-size: 10px;
+    
+}
+
+#top .main_color .mc4wp-alert { 
+	margin: 1em 0; 
+	padding: 10px 15px; 
+	color: #c09853; 
+	background-color: #fcf8e3; 
+	border: 1px solid #fbeed5; 
+	border-radius: 2px; 
+	-moz-border-radius: 2px; 
+	-webkit-border-radius: 2px; 
+	display: block;  
+	position: relative;
+}
+
+#top .main_color .mc4wp-success { 
+	color: #468847; 
+	background-color: #dff0d8; 
+	border-color: #d6e9c6; 
+}
+
+#top .main_color .mc4wp-notice { 
+	color: #3a87ad; 
+	background-color: #d9edf7; 
+	border-color: #bce8f1; 
+}
+
+#top .main_color .mc4wp-error { 
+	color: #fff; 
+	background-color: rgba(198, 15, 19, 0.5);
+	border-color: #eed3d7; 
+}
+
+::-webkit-input-placeholder {
+   font-weight: bold;
+   color: #fff;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   font-weight: bold;
+   color: #fff;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   font-weight: bold;
+   color: #fff;  
+}
+
+:-ms-input-placeholder {  
+   font-weight: bold;
+   color: #fff;  
+}
+
+span.error, small.error {
+    display: block;
+    padding: 0.375rem 0.5625rem 0.5625rem;
+    margin-top: -1px;
+    margin-bottom: 1rem;
+    font-size: 0.75rem;
+    font-weight: normal;
+    font-style: italic;
+    background: #C60F13;
+    color: white;
+    background-color: rgba(198, 15, 19, 0.4);
+    border-color: #C60F13;
+}

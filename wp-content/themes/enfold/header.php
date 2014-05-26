@@ -42,6 +42,7 @@ if( strpos($responsive, 'responsive') !== false ) echo '<meta name="viewport" co
 
 
 <!-- Scripts/CSS and wp_head hook -->
+
 <?php
 /* Always have wp_head() just before the closing </head>
  * tag of your theme, or you will break many plugins, which
