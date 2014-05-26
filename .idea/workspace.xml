@@ -1,308 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4137eafd-674d-4c99-8291-573f44a0706b" name="Default" comment="Scroller and SVG Image Added">
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\11-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\11-296x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\11-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\11-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\21-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\21-296x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\21-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\21-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\21.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\background_xml11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator11-150x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator11-90x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator11.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator2-150x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator2-90x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\fancy-seperator2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\logo1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-111-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-111.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-121-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-121.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-211.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-311.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-411-90x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\project-logo-411.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator2-150x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator2-300x12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator2-300x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator2-90x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator3-150x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator3-300x12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator3-300x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator3-90x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\revolution-seperator3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\service-icon-111.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\service-icon-211.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\service-icon-311.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_101.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_1211.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_131.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_191.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\2014\03\wg_blurred_backgrounds_61.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\fancy-seperator1-150x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\fancy-seperator1-90x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\fancy-seperator1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\revolution-seperator-150x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\revolution-seperator-300x12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\revolution-seperator-300x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\revolution-seperator-90x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\revolution-seperator.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_112.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_02\wg_blurred_backgrounds_121.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\background_xml1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\fancy-seperator-150x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\fancy-seperator-90x19.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\fancy-seperator.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\revolution-seperator-150x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\revolution-seperator-300x12.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\revolution-seperator-300x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\revolution-seperator-90x28.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\revolution-seperator.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4-1024x682.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4-300x200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\home_05\wg_blurred_backgrounds_4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\kenburnsexport\bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\apple.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\clock2-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\clock2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud1-150x121.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud1-300x105.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud1-300x121.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud1-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud2-150x104.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud2-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud3-150x104.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud3-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\cloud3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg-300x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\darkblurbg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\graph-90x88.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\graph.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy1-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy1-183x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy1-190x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy1-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy2-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy2-162x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy2-190x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy2-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy3-120x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy3-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy4-120x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy4-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\guy4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill1-150x44.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill1-90x44.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill2-150x33.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill2-90x33.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill3-150x75.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill3-300x60.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill3-300x75.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill3-90x75.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill4-150x53.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill4-90x53.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\hill4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\icon_photo-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\icon_photo.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\imac1-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\imac1-300x256.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\imac1-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\imac1-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\imac1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_imac-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_imac-300x257.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_imac-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_imac-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_imac.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_macbook-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_macbook-300x257.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_macbook-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_macbook-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\lupe_macbook.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\macbook2-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\macbook2-300x187.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\macbook2-300x294.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\macbook2-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\macbook2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\slidebg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\star.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\tree-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\tree-194x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\tree-203x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\tree-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\tree.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1-1024x437.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1-300x128.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videobg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videoshadow-150x81.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videoshadow-300x37.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videoshadow-300x81.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videoshadow-90x81.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\videoshadow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\woman-150x150.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\woman-244x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\woman-300x300.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\woman-90x90.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview\woman.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\leftarrow.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_300-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_300-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_300-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_500-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_500-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_500-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_500.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1-300x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2-300x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3-300x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4-1024x576.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4-150x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4-300x168.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4-300x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4-90x90.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\placeholder_bg4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Admin\Documents\GitHub\staging.wompsocial.dev\wp-content\uploads\revslider\sliderpreview_fullscreen\rightarrow.png" afterPath="" />
+    <list default="true" id="4137eafd-674d-4c99-8291-573f44a0706b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/enfold-child/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/enfold-child/functions.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/enfold-child/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/enfold-child/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/uploads/dynamic_avia/womp_enfold.css" afterPath="$PROJECT_DIR$/wp-content/uploads/dynamic_avia/womp_enfold.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="staging.wompsocial.dev.iws" />
@@ -702,15 +403,21 @@
       <option name="project" value="LOCAL" />
       <updated>1400718664598</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Scroller and SVG Image Added">
+      <created>1401135601169</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1401135601169</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3293011" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32258064" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -719,7 +426,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17673522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6330645" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293011" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6330645" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
